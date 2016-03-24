@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<head> 
+<title>Резюме</title>
+</head>
+<body>
+  <header>
+ 	<h1>Фёдор Сумкин</h1>
+	<img src="http://uduba.com/user_data/2045983.8715.jpg" width="360" heigth="240" alt="Котик">
+    
+  </header>
+</body>
