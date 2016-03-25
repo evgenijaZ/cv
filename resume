@@ -1,11 +1,46 @@
 <!DOCTYPE html>
 <head> 
 <title>Резюме</title>
+<style>
+h1{
+	font-size: 150%; 
+    font-family:century gothic,  Helvetica, sans-serif; 
+    color: #333366;
+	padding: 60px;
+	}
+p{
+	font-size: 100%; 
+    font-family: century gothic, Helvetica, sans-serif; 
+	margin: 20px 60px;
+}
+h2{
+	font-size: 150%; 
+    font-family:century gothic,  Helvetica, sans-serif; 
+    color: #333366;
+	text-align:center;
+	margin-top: 200px;
+}
+h3{
+	font-size: 150%; 
+    font-family:century gothic,  Helvetica, sans-serif; 
+    color: #333366;
+	text-align:center;
+	margin-top: 10px;	
+}
+.fig{
+margin:30px;}
+</style>
 </head>
 <body>
-  <header>
- 	<h1>Фёдор Сумкин</h1>
-	<img src="http://uduba.com/user_data/2045983.8715.jpg" width="360" heigth="240" alt="Котик">
-    
-  </header>
+	<p class="fig"><img src="cat.jpg"  align="right" width="300" heigth="200" alt="Котик"></p>
+	<h1><ins>Фёдор Сумкин</ins></h1>
+	<p><b>Родился: </b>в июне 45 года</p>
+	<p><b>Мобильный: </b>+3801234567</p>
+	<p><b>Почта: </b>fedya@lordoftherings@com</p>
+	<h2>Сайтостроитель</h2>
+	<h3>Цель</h3>
+	<h3>Ключевая информация</h3>
+	<h3>Образование</h3>
+	<h3>Владения языками</h3>
+	<h3>Допольнительная информация</h3>
 </body>
