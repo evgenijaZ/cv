@@ -4,33 +4,33 @@
 <style>
 h1{
 	font-size: 200%; 
-    font-family:century gothic,  Helvetica, sans-serif; 
-    color: #333366;
+    	font-family:century gothic,  Helvetica, sans-serif; 
+	color: #333366;
 	padding: 60px;
 	}
 p{
 	font-size: 100%; 
-    font-family: century gothic, Helvetica, sans-serif; 
+    	font-family: century gothic, Helvetica, sans-serif; 
 	margin: 20px 60px;
 }
 h2{
 	font-size: 200%; 
-    font-family:century gothic,  Helvetica, sans-serif; 
-    color: #333366;
+    	font-family:century gothic,  Helvetica, sans-serif; 
+    	color: #333366;
 	text-align:center;
 	margin-top: 200px;
 }
 h3{
 	font-size: 150%; 
-    font-family:century gothic,  Helvetica, sans-serif; 
-    color: #333366;
+    	font-family:century gothic,  Helvetica, sans-serif; 
+    	color: #333366;
 	text-align:center;
 	margin-top: 70px;	
 }
 .page{
 	margin: 0 250px 0 250px;
 	width:1000px;
-    background: #E6E6FA;
+	background: #E6E6FA;
 }
 body{
 	background: url(http://xsaxs.ru/wall/17/linii_vertikalnyy_raznocvetnyy_fon_ten_1920x1080.jpg) no-repeat fixed;
