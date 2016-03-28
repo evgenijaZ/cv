@@ -25,17 +25,22 @@ h3{
     font-family:century gothic,  Helvetica, sans-serif; 
     color: #333366;
 	text-align:center;
-	margin-top: 10px;	
+	margin-top: 70px;	
 }
-body
-{ 
+.page{
 	margin: 0 250px 0 250px;
+	width:1000px;
+    background: #E6E6FA;
+}
+body{
+	background: url(http://xsaxs.ru/wall/17/linii_vertikalnyy_raznocvetnyy_fon_ten_1920x1080.jpg) no-repeat fixed;
 }
 .fig{
 margin:30px;}
 </style>
 </head>
 <body>
+<div class="page" >
 	<p class="fig"><img src="http://photo1.ask.fm/938/061/714/1650003027-1qa3e1q-c63siqfrc6fjnmf/original/vuAz2oLVyCQ.jpg"  align="right" width="300" heigth="200" alt="Котик"></p>
 	<h1><ins>Фёдор Сумкин</ins></h1>
 	<p><b>Родился: </b>в июне 45 года</p>
@@ -56,7 +61,8 @@ margin:30px;}
 	<h3>Владения языками</h3>
 	<hr align="200">
 	<p>Английский, Клингонский - на уровнене чтения документации. Украинский - на свободном уровне.</p>
-	<h3>Допольнительная информация</h3>
+	<h3>Дополнительная информация</h3>
 	<hr align="200">
-	<p>Занимаюсь спортом. Не курю траву. Занимаюсь айфонографией.</p>
+	<p>Занимаюсь спортом. Не курю траву. Занимаюсь айфонографией.<br> </br></p>
+</div>
 </body>
