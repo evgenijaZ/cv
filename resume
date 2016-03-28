@@ -3,7 +3,7 @@
 <title>Резюме</title>
 <style>
 h1{
-	font-size: 150%; 
+	font-size: 200%; 
     font-family:century gothic,  Helvetica, sans-serif; 
     color: #333366;
 	padding: 60px;
@@ -14,7 +14,7 @@ p{
 	margin: 20px 60px;
 }
 h2{
-	font-size: 150%; 
+	font-size: 200%; 
     font-family:century gothic,  Helvetica, sans-serif; 
     color: #333366;
 	text-align:center;
@@ -43,9 +43,9 @@ margin:30px;}
 <div class="page" >
 	<p class="fig"><img src="http://photo1.ask.fm/938/061/714/1650003027-1qa3e1q-c63siqfrc6fjnmf/original/vuAz2oLVyCQ.jpg"  align="right" width="300" heigth="200" alt="Котик"></p>
 	<h1><ins>Фёдор Сумкин</ins></h1>
-	<p><b>Родился: </b>в июне 45 года</p>
-	<p><b>Мобильный: </b>+3801234567</p>
-	<p><b>Почта: </b>fedya@lordoftherings@com</p>
+	<p><b>•Родился: </b>в июне 45 года</p>
+	<p><b>•Мобильный: </b>+3801234567</p>
+	<p><b>•Почта: </b>fedya@lordoftherings@com</p>
 	<h2><ins>Сайтостроитель</ins></h2>
 	<h3>Цель</h3>
 	<hr align="200">
